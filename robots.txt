@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://geesafriik.github.io/ga/sitemap.xml
